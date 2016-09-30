@@ -1,3 +1,9 @@
 [submodule "path"]
 	path = path
 	url = https://github.com/SylvainGuieu/path.git
+[submodule "smartplotlib"]
+	path = smartplotlib
+	url = https://github.com/SylvainGuieu/smartplotlib
+[submodule "quantity"]
+	path = quantity
+	url = https://github.com/SylvainGuieu/quantity.git
